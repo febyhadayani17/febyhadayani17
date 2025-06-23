@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Feby Hadayani
 
-🎓 Currently pursuing my Master's in Applied Data Science at the University of Chicago  
+🎓 Currently pursuing Master's in Applied Data Science at the University of Chicago  
 💼 Experienced in research, data science, and A/B test experimentation across Southeast Asia  
 🔍 Interested in machine learning, NLP, and LLM
 
