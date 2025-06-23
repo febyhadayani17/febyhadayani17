@@ -3,7 +3,8 @@
 🎓 Currently pursuing my Master's in Applied Data Science at the University of Chicago  
 💼 Experienced in research, data science, and A/B test experimentation across Southeast Asia  
 🔍 Interested in machine learning, NLP, and LLM
-🌱 Always learning — especially in the intersection of AI, economics, and consumer behavior
+
+🌱 Always learning especially in the intersection of AI, economics, and consumer behavior
 
 ---
 
