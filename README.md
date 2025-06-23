@@ -28,6 +28,7 @@ intervention to improve frequency conversion while reducing operational cost.
 #### 📊 Past Experiences:
 - Junior Manager of Growth Ops at Gojek
 - Data Scientist at Grab
+  Gojek & Grab are the biggest ride hailing tech companies in Southeast Asia, offering ride, food, and delivery services.
 
 ---
 
