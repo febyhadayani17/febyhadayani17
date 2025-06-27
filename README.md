@@ -40,14 +40,18 @@ intervention to improve frequency conversion while reducing operational cost.
 ---
 
 ### 🧠 Previous Projects
-1. [Predicting ICU Length of Stay caused by Microbacterial Infection using Bayesian Neural Network] (https://github.com/febyhadayani17/icu-length-of-stay-prediction)
-   - Achieved R-square 58.5% and RMSE 4.3 days using Bayesian Neural Network, (which outperform Bayesian Linear Regression), to predict ICU Length of Stay caused by bacterial infection from MIMIC III & MIMIC IV dataset.        We used demographics (marital status, age, gender) and insurance ownership as independent variable.
-2. [Audio Genre Classification using LSTM] (https://github.com/febyhadayani17/audio_genre_classification_lstm)
-   - Achieved 73% accuracy by classifying GTZAN audio dataset into various genre using ResLSTM, which outperform ConvLSTM & LSTM.
-3. [Forecasting US Unemployment Rate in Dec 2024 using Linear Backward Regression]
-   - Achieved 99% accuracy of US Unemployment Rate prediction by incorporating macroeconomics time series data as indepencent variables.
-4. [Amazon Groceries Recommendation System using Association Rules] (https://github.com/febyhadayani17/amazon_recommendation_system_association_rules)
-   - Create recommendation system based on users' last purchase items & recommend them products with the higher rating
+1. **[Predicting ICU Length of Stay caused by Microbacterial Infection using Bayesian Neural Network](https://github.com/febyhadayani17/icu-length-of-stay-prediction)**  
+   - Achieved R-square 58.5% and RMSE 4.3 days using Bayesian Neural Network (which outperformed Bayesian Linear Regression) to predict ICU Length of Stay caused by bacterial infection from MIMIC III & MIMIC IV datasets. Used demographics (marital status, age, gender) and insurance ownership as independent variables.
+
+2. **[Audio Genre Classification using LSTM](https://github.com/febyhadayani17/audio_genre_classification_lstm)**  
+   - Achieved 73% accuracy by classifying GTZAN audio dataset into various genres using ResLSTM, which outperformed ConvLSTM & standard LSTM.
+
+3. **Forecasting US Unemployment Rate in Dec 2024 using Linear Backward Regression**  
+   - Achieved 99% accuracy of US Unemployment Rate prediction by incorporating macroeconomic time series data as independent variables.
+
+4. **[Amazon Groceries Recommendation System using Association Rules](https://github.com/febyhadayani17/amazon_recommendation_system_association_rules)**  
+   - Built a recommendation system based on users' last purchased items and recommended products with higher ratings.
+
 
 ---
 
