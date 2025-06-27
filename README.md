@@ -3,7 +3,6 @@
 🎓 Currently pursuing Master's in Applied Data Science at the University of Chicago  
 💼 Experienced in research, data science, and A/B test experimentation across Southeast Asia  
 🔍 Interested in machine learning, NLP, and LLM
-
 🌱 Always learning especially in the intersection of AI, economics, and consumer behavior
 
 ---
@@ -46,7 +45,7 @@ intervention to improve frequency conversion while reducing operational cost.
 2. **[Audio Genre Classification using LSTM](https://github.com/febyhadayani17/audio_genre_classification_lstm)**  
    - Achieved 73% accuracy by classifying GTZAN audio dataset into various genres using ResLSTM, which outperformed ConvLSTM & standard LSTM.
 
-3. **[Forecasting US Unemployment Rate in Dec 2024 using Linear Backward Regression]**(https://github.com/febyhadayani17/forecast_us_unemployment_dec2024)  
+3. **[Forecasting US Unemployment Rate in Dec 2024 using Linear Backward Regression](https://github.com/febyhadayani17/forecast_us_unemployment_dec2024)**  
    - Achieved 99% accuracy of US Unemployment Rate prediction by incorporating macroeconomic time series data as independent variables.
 
 4. **[Amazon Groceries Recommendation System using Association Rules](https://github.com/febyhadayani17/amazon_recommendation_system_association_rules)**  
