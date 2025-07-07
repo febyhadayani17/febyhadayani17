@@ -8,7 +8,7 @@
 ---
 
 ### 🧭 About Me:
-Data Scientist with 2+ years of experience executing experiments and data-driven solutions to increase efficiency 
+Data Scientist with 3+ years of experience executing experiments and data-driven solutions to increase efficiency 
 and identify potential of supply and demand side in the biggest Southeast Asia’s ride-hailing company. 
 Experienced at conducting A/B test, building strategy, using predictive data modeling, and evaluating 
 intervention to improve frequency conversion while reducing operational cost.
